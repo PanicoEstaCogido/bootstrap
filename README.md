@@ -2,7 +2,7 @@
 
 # Bootstrap
 
-Hola buen día compañeros de curso, espero que vuestra jornada de aprendizaja resulte productiva y os llene de esperanza para realizar una proeza portentosa digna del mismisimo Odin.
+Hola buen día compañeros de curso, espero que vuestra jornada de aprendizaje resulte productiva y os llene de esperanza y ganas de realizar una proeza portentosa digna del mismisimo Odin. MUCHAS GRACIAS AMIGOS :)
 
 Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 
